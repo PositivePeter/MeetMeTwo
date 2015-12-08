@@ -2,7 +2,9 @@
 
 Hello GitHub
 
-Peter
+Goodbye GitHub
+
+Peter Positive
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
